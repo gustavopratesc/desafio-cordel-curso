@@ -1,0 +1,24 @@
+main {
+    font-family: sriacha, Arial, Helvetica, sans-serif;
+    font-size: 3vw;
+    text-align: justify;
+    margin-top: 15vh;
+}
+main p {
+    width: 45vw;
+    margin-left: 2vw;
+}
+.paragrafo-2 {
+    background-color: #010F00;
+}
+.sessao-2 {
+    color: white;
+    margin-top: 20vh;
+    background-image: url(../imagens/background001.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center right;
+    background-attachment: fixed;
+    padding: 4em 0em 4em 0em;
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.473);
+} 
