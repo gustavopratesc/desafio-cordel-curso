@@ -2,7 +2,7 @@
   "name": "desafio-cordel-curso",
   "version": "1.0.0",
   "description": "Site recriado do desafio do canal Curso em Video Gustavo Guanabara",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
